@@ -1,0 +1,1 @@
+# hotel_email_templates
